@@ -1,0 +1,14 @@
+base address: 0x40078000
+board name: 
+cmdline: bootopt=64S3,32N2,64N2 buildvariant=user veritykeyid=id:f3530e18f64d11fc25eb2dd762979f078de990bf
+dtb offset: None
+header version: 0
+image type: AOSP
+kernel offset: 0x00008000
+original size: 10051584
+os version: 7.1.2
+page size: 2048
+ramdisk compression: gzip
+ramdisk offset: 0x03f88000
+sigtype: None
+tags offset: 0x0df88000
